@@ -2,7 +2,7 @@
 Comparison of different generative models
 
 # ToDO
-- [ ] HF Comparison
+- [x] HF Comparison
 - [ ] Individual model comparison using metric
   - [ ] GPT
   - [ ] t5
