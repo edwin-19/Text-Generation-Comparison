@@ -5,4 +5,5 @@ Comparison of different generative models
 - [x] HF Comparison
 - [ ] Individual model comparison using metric
   - [ ] GPT
-  - [ ] t5
+  - [x] t5
+    - [x] Rougue Score (0.15)
